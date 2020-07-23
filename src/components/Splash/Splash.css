@@ -1,0 +1,42 @@
+
+#tolja-splash-grid {
+    background: black url('../../images/WineBackgroundImage.jpg') top center no-repeat;
+    font-family: "CopperplateGothic";
+    font-weight: bold;
+    letter-spacing: .2rem;
+    border: 1px solid green;
+    height: 100%;
+}
+.tolja-splash-column {
+    /* box-sizing: border-box; */
+    border: 1px solid white;
+    float: left;
+    width: 50%;
+    padding: 1.2rem;
+    color: #dfdcad;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 1.0);
+    max-width: 400px;
+    text-align: center;
+    white-space: nowrap;
+    
+  }
+
+  .tolja-splash-column > h1 {
+      color: white;
+      border: 1px solid white;
+  }
+
+
+  /* Clear floats after the columns */
+  .tolja-splash-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .tolja-splash-column {
+      width: 100%;
+    }
+  }

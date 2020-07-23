@@ -1,11 +1,11 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import Splash from "./components/Splash";
+// import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      App code here
-    </div>
+    <Splash/>
+     
   );
 }
 
