@@ -27,6 +27,7 @@ export default class Splash extends React.Component<Props, State> {
               alt="I have just met the woman I shall marry! I am certain. One day, I hope some fine lads will invent an app where I can prove it."
             />
           </div>
+          <div className="tolja-splash-spacer tolja-splash-spacer-middle"></div>
           <div
             className="tolja-splash-section"
             id="tolja-splash-section-second"
@@ -41,6 +42,7 @@ export default class Splash extends React.Component<Props, State> {
               alt="App for iPhone and Android coming soon"
             />
           </div>
+
         </div>
 
 
