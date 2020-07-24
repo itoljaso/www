@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a8d55c0.chunk.css",
-    "main.js": "/static/js/main.fdd3303c.chunk.js",
-    "main.js.map": "/static/js/main.fdd3303c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.08521ef5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.08521ef5.js.map",
-    "static/js/2.f395e05e.chunk.js": "/static/js/2.f395e05e.chunk.js",
-    "static/js/2.f395e05e.chunk.js.map": "/static/js/2.f395e05e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6d2f39c077f9f6fd95fce6b6572bab83.js": "/precache-manifest.6d2f39c077f9f6fd95fce6b6572bab83.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1a8d55c0.chunk.css.map": "/static/css/main.1a8d55c0.chunk.css.map",
-    "static/js/2.f395e05e.chunk.js.LICENSE.txt": "/static/js/2.f395e05e.chunk.js.LICENSE.txt",
-    "static/media/AbsinthePoster_Cropped.jpg": "/static/media/AbsinthePoster_Cropped.c488b124.jpg",
-    "static/media/index.css": "/static/media/CopperplateGothicHeavyBT.f1aca07a.woff2",
-    "static/media/Splash.css": "/static/media/WineBackgroundImage.977492b3.jpg",
-    "static/media/iPhoneWithLogoTrans.png": "/static/media/iPhoneWithLogoTrans.7e967035.png"
+    "main.css": "/www/static/css/main.4f12ba25.chunk.css",
+    "main.js": "/www/static/js/main.0d7afa6e.chunk.js",
+    "main.js.map": "/www/static/js/main.0d7afa6e.chunk.js.map",
+    "runtime-main.js": "/www/static/js/runtime-main.184f04d4.js",
+    "runtime-main.js.map": "/www/static/js/runtime-main.184f04d4.js.map",
+    "static/js/2.f395e05e.chunk.js": "/www/static/js/2.f395e05e.chunk.js",
+    "static/js/2.f395e05e.chunk.js.map": "/www/static/js/2.f395e05e.chunk.js.map",
+    "index.html": "/www/index.html",
+    "precache-manifest.d36fa8581f481fe816b03f2937e5b08d.js": "/www/precache-manifest.d36fa8581f481fe816b03f2937e5b08d.js",
+    "service-worker.js": "/www/service-worker.js",
+    "static/css/main.4f12ba25.chunk.css.map": "/www/static/css/main.4f12ba25.chunk.css.map",
+    "static/js/2.f395e05e.chunk.js.LICENSE.txt": "/www/static/js/2.f395e05e.chunk.js.LICENSE.txt",
+    "static/media/AbsinthePoster_Cropped.jpg": "/www/static/media/AbsinthePoster_Cropped.c488b124.jpg",
+    "static/media/index.css": "/www/static/media/CopperplateGothicHeavyBT.f1aca07a.woff2",
+    "static/media/Splash.css": "/www/static/media/WineBackgroundImage.977492b3.jpg",
+    "static/media/iPhoneWithLogoTrans.png": "/www/static/media/iPhoneWithLogoTrans.7e967035.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.08521ef5.js",
+    "static/js/runtime-main.184f04d4.js",
     "static/js/2.f395e05e.chunk.js",
-    "static/css/main.1a8d55c0.chunk.css",
-    "static/js/main.fdd3303c.chunk.js"
+    "static/css/main.4f12ba25.chunk.css",
+    "static/js/main.0d7afa6e.chunk.js"
   ]
 }
