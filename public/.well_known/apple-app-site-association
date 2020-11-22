@@ -1,0 +1,29 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T9UADC7VZZ.com.itoljaso.mobile",
+                "paths": [ "/joinme/*"],
+                "appIDs": ["T9UADC7VZZ.com.itoljaso.mobile"],
+                "components": [
+                    {
+                        "/" : "/joinme/*",
+                        "comment": "Matches a request to join a user"
+                    }
+                ]
+            },
+            {
+                "appID": "1540215094.com.itoljaso.mobile",
+                "paths": [ "/joinme/*"],
+                "appIDs": ["1540215094.com.itoljaso.mobile"],
+                "components": [
+                    {
+                        "/" : "/joinme/*",
+                        "comment": "Matches a request to join a user"
+                    }
+                ]
+            }
+        ]
+    }
+}

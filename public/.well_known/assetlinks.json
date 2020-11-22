@@ -1,0 +1,18 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.itoljaso.mobile",
+      "sha256_cert_fingerprints":
+      ["70:B4:C2:D0:9B:BA:44:FF:EB:79:17:4C:F1:62:BC:40:0A:D6:49:38:95:A2:E4:81:9E:25:24:FD:6C:97:E4:F6"]
+    }
+    },
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.itoljaso.mobile",
+      "sha256_cert_fingerprints":
+      ["70:B4:C2:D0:9B:BA:44:FF:EB:79:17:4C:F1:62:BC:40:0A:D6:49:38:95:A2:E4:81:9E:25:24:FD:6C:97:E4:F6"]
+    }
+  }]
